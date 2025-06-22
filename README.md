@@ -2,7 +2,7 @@
 
 EssayAI is a full-stack web application designed to help teachers and students with essay writing, grading, and assignment tracking using Artificial Intelligence. It supports AI-based grading, AI-content detection, and multi-role access (Admin, Teacher, Student). This project is built using modern tools like React, Supabase, OpenAI, and Tailwind CSS.
 
-🔗 Live Demo: https://graceful-sprite-a1a653.netlify.app/dashboard
+🔗 Live Demo: https://graceful-sprite-a1a653.netlify.app
 
 ---
 
